@@ -1,0 +1,50 @@
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Приложение Г.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 1.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 10.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 11.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 2.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 3.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 4.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 5.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 6.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 7.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 8.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Таблица 9.dotx
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GeoReports.pdb
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\CommonClassLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\Esrc.Sys.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\Esrc.Tasks.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GeodesyLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GeometryExtLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GeometryLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GisConnectServiceLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GisContractLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GisInterfaceLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\Interop.ADOX.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\Interop.JRO.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MapCatalogLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MapClassLibrary.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MapContractClientLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MapFormLibrary.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MapInterfaceLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MapViewLibrary.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MatrixLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\MetricsLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\OfficeClassLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\PictureGPSBinding.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\PlayVideoLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\VstoTasksLib.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\GeoReports.CreateReportFrm.resources
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\GeoReports.frmMain.resources
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\GeoReports.Properties.Resources.resources
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\GeoReports.pdb
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GeometryLib.xml
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\GeoReports.exe
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\obj\x86\Debug\GeoReports.exe
+C:\Users\Тинкс\Documents\Visual Studio 2010\Projects\Работа\geo_reports\Source\GeoReports\bin\Debug\WordTemplates\Приложение Ж.dotx
