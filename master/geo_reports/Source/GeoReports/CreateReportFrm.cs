@@ -18,6 +18,16 @@ namespace GeoReports
             manager = _manager;
         }
 
-        //private void Fill
-    }
+        private void Fill()
+	{
+		try
+		{
+			if (manager != null)
+				manager.FillReport();
+		}
+		catch (Exception ex)
+		{
+			MessageBox.Show("Не удалось заполнить форму отчета.");
+		}
+	}
 }
