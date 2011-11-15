@@ -15,6 +15,7 @@ create table CatalogsReports
 	BeginDate date not null, -- начало облета
 	EndDate date not null, -- конец облета
 	Name nvarchar(256) not null, -- название каталога
+	// не удалять!!!
 	count int not null
 );
 
