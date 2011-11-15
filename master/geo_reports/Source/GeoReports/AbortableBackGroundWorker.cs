@@ -66,7 +66,7 @@ namespace GeoReports
         }
         public void Abort()
         {
-
+		// aborting work 
             isAlive = false;
             if (workerThread != null)
             {
