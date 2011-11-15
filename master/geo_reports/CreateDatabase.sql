@@ -14,7 +14,8 @@ create table CatalogsReports
 	Id int identity not null primary key,
 	BeginDate date not null, -- начало облета
 	EndDate date not null, -- конец облета
-	Name nvarchar(256) not null -- название каталога
+	Name nvarchar(256) not null, -- название каталога
+	count int not null
 );
 
 create table DocumentsReports
