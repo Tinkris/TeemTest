@@ -33,7 +33,7 @@ namespace GeoReports
             templateTable9 = Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Таблица 9.dotx");
             templateTable10 = Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Таблица 10.dotx");
             templateTable11 = Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Таблица 11.dotx");
-            templateG = Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Приложение Баба Яга.dotx");   
+            templateG = Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Приложение Баба .dotx");   
             templateTable1 = Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Таблица 1.dotx");
             templateTable6= Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Таблица 6.dotx");
             templateTable7 = Path.Combine(Path.GetDirectoryName(this.GetType().Assembly.Location), ".//WordTemplates//Таблица 7.dotx");
@@ -99,12 +99,6 @@ namespace GeoReports
         {
             if (mapViewer != null)
             {
-                string conStr = mapViewer.GisProject.ExtraDataConnectionStr("Отчеты");
-                if (conStr != null) georeportsConnectionString = conStr;
-
-                if (georeportsConnectionString == null)
-                    throw new Exception("Не определена база данных аэровизуальных наблюдений!");
-
                 DataBaseWorker.Init(georeportsConnectionString);
             }
         }
