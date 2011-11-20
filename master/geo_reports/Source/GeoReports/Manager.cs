@@ -113,6 +113,7 @@ namespace GeoReports
         public void AbortReportCreating()
         {
             WordDocument.KillAll();
+			DataBaseWorker.Dispose();
         }
 
         
