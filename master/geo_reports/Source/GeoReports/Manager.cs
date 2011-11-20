@@ -118,44 +118,7 @@ namespace GeoReports
         public void UpdateTree(TreeView tree)
         {
             DataBaseWorker.GetReportsData(tree);
-           /*// Georeports db = new Georeports(georeportsConnectionString);
-            
-            /*IEnumerable<DocumentsReport> table = 
-                (from reports in db.DocumentsReports   
-                 orderby reports.CatalogsReport
-                 select reports);
-            
-
-            IEnumerable<CatalogsReport> table = 
-                (from catalogs in db.CatalogsReports   
-                 orderby catalogs.Id
-                 select catalogs);
-
-            tree.Nodes.Clear();
-
-            foreach (CatalogsReport cr in table)
-            {
-                TreeNode newCatalogNode = new TreeNode(cr.Id.ToString() + " " + cr.Name);
-                IEnumerable<DocumentsReport> tableDocs =
-                    (from reports in db.DocumentsReports
-                     where reports.CatalogsId == cr.Id
-                     orderby reports.CreateDate
-                     select reports);
-
-                TreeNode dateParent = null;
-                DateTime currCreateDate = DateTime.Now;
-                foreach (DocumentsReport dr in tableDocs)
-                {
-                    if (dr.CreateDate != currCreateDate)
-                    {
-                        currCreateDate = dr.CreateDate;
-                        dateParent = new TreeNode(currCreateDate.ToShortDateString());
-                        tree.Nodes.Add(dateParent);
-                    }
-                    dateParent.Nodes.Add(dr.NameOfREportsSet.ToString() + ": " + dr.WordName);
-                }
-            }
-            */
+			DataBaseWorker.Dispose();
         }
     }
 }
