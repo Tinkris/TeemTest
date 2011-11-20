@@ -106,6 +106,7 @@ namespace GeoReports
                     throw new Exception("Не определена база данных аэровизуальных наблюдений!");
 
                 DataBaseWorker.Init(georeportsConnectionString);
+				DataBaseWorker.Dispose();
             }
         }
 
