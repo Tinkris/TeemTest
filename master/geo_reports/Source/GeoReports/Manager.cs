@@ -43,6 +43,11 @@ namespace GeoReports
         public void SetViewer(IMapViewer _mapViewer)
         {
             mapViewer = _mapViewer;
+		if (mapViewer = null)
+		{
+			int i = 4;
+			MessageBox.Show("Пустой указатель на карту");
+		}
             Table1Creator.Init(mapViewer,templateTable1);
             Table6Creator.Init(mapViewer, templateTable6);
             Table7Creator.Init(mapViewer, templateTable7);
