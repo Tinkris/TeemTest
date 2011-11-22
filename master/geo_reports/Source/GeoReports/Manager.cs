@@ -45,7 +45,7 @@ namespace GeoReports
             mapViewer = _mapViewer;
 		if (mapViewer = null)
 		{
-			int i = 0;
+			int i = 4;
 			MessageBox.Show("Пустой указатель на карту");
 		}
             Table1Creator.Init(mapViewer,templateTable1);
